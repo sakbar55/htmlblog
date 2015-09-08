@@ -46,6 +46,14 @@ main {
   color: #0066CC;
 }
 
+aside {
+  position: relative;
+  padding: 8px;
+  float: left;
+  width: 300px;
+}
+
+
 h2 {
   color: #3399FF;
   font-size: 20px;
